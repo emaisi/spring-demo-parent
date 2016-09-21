@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dallin-web:war">
+    <output-path>$PROJECT_DIR$/dallin-web/target</output-path>
+    <root id="archive" name="dallin-web.war">
+      <element id="artifact" artifact-name="dallin-web:war exploded" />
+    </root>
+  </artifact>
+</component>
